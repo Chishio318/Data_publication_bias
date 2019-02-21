@@ -4,10 +4,12 @@ This repository contains the text evidence for classification of labor union dat
 
 ## Repository content
 - 01_data
-  - classification.csv
-  - original.csv
+  - classification.csv = summary results of classifications
+  - original.csv = extracted data from Doucouliagos et al. 2018
 - 02_text
   - zipped folder containing scanned papers
+- 03_code
+  - a code to compile the two data sets
   
 ## Objectives for classification
 The objective of paper classification is to focus on the meta-analysis data for which the communication model makes empirical predictions: the papers that highlight the dichotomous, yes-or-no conclusion for readers who aggregate multiple papers without consulting the regression coefficients and their standard errors. Yet the meta-analysis data also contain papers that have their estimates in the main text without highlighting in easy-to-read sections of the paper. 
@@ -56,4 +58,4 @@ Doucouliagos, Christos, and Patrice Laroche. 2003. “What Do Unions Do to Produ
 Doucouliagos, Christos, Richard Freeman, Patrice Laroche, and Tom Stanley. 2018. “How Credible is Trade Union Research? Forty Years of Evidence on the Monopoly-Voice Tradeoff.” Industrial Relations: A Journal of Economy and Society
 
 ## Acknowledgment
-I thank my Research Assistants, Shreya Parajan and Beryce Garcia, for helping me through the process in 2018.
+I thank my Research Assistants, Shreya Parajan and Beryce Garcia, for helping me through the classification process in 2018.
