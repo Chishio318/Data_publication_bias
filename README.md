@@ -39,14 +39,18 @@ Given the resource available, we designed the classification process and record 
 -	101 if the findings were inconclusive.
 - 102 if the article belonged to a book
 - 103 if the article could not be found
+
 This assessment was based on reviewing article abstracts, introductions, and conclusions until an outcome was mentioned. There were 7 books that were all included in the analyses since they do not follow the format of abstract, introduction, and conclusions. There were 3 articles that could not be found even after extensive search.
 
 ## Reasons for multiple assessments
 If there were multiple assessments possible due to (i) ambiguity of language as main reason above, we listed 2 classifications for each article. There were following 3 kinds of ambiguities:
+
 1. Heterogeneous effects on different groups: while the articles mentioned that unions had heterogeneous effects on productivity depending on the group that was examined, Classification 1 assigned a single number regardless of specific group results while Classification 2 assigned numbers that varied by group.
    - An example of Milkman (1997) demonstrates this. The article writes “The union/nonunion productivity differential for average minority students is positive. However, the productivity differential is negative for minority students attending schools where the majority of students are nonminority, but the productivity differential is positive for minority students attending schools where the majority of students are minorities.” There are several classifications within the article’s overarching examination of productivity and minority students.
+   
 2.	No direct statement regarding unions and productivity: Some articles made no clear statement that specifically concerned the impact of unions on firm productivity. They focused on the impact of other factors, like labor management practices or technologies, on productivity instead.
    - An example of Black and Lynch (2001) shows this. The article writes “Unionized establishments that have adopted human resource practices that promote joint decision making coupled with incentive-based compensation have higher productivity than other similar nonunion plants, whereas unionized businesses that maintain more traditional labor management relations have lower productivity.” This statement expresses whether labor management relations affect productivity, which may or may not indicate unionization.
+   
 3.	Variation in text evidence: the evidence selected to support each classification’s claim varied, with each piece supporting a different conclusion.
    - An example of Guthrie (2001) demonstrates this. In Classification 1, one reviewer has put “Study results indicate a positive association between use of high-involvement work practices and employee retention and firm productivity.” In Classification 2, another reviewer has put “high involvement work practices may have implications for the effect of turnover on firm productivity; turnover is adversely associated with productivity when the use of these practices is high and, conversely, turnover is positively associated with productivity when use of the practices is low.” Classification 1’s evidence focuses on the impact of high-involvement work practices, not unionization, on productivity, resulting in a classification of 100. Classification 2’s evidence resulted in a classification of -1, since high-involvement was taken to mean more worker voice and participation, along the lines of unionization, having a negative effect on productivity.
 
