@@ -1,0 +1,6 @@
+# Ignore "Personal" folder with its .dta files
+**/Personal
+
+# lyx auxiliary folders
+*lyx~
+*lyx#
