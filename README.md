@@ -7,9 +7,8 @@ This repository contains the text evidence for classification of labor union dat
   - classification.csv = summary results of classifications
   - original.csv = extracted data from Doucouliagos et al. 2018
 - 02_text
-  - zipped folder containing scanned papers
-- 03_code
-  - a code to compile the two data sets
+  - 01-09,...,70-73 = scanned PDF of papers with highlights as contained in Doucouliagos and Laroche 2003 paper
+  - additional = scanned PDF of papers with highlights as added in Doucouliagos et al. 2018 paper
   
 ## Objectives for classification
 The objective of paper classification is to focus on the meta-analysis data for which the communication model makes empirical predictions: the papers that highlight the dichotomous, yes-or-no conclusion for readers who aggregate multiple papers without consulting the regression coefficients and their standard errors. Yet the meta-analysis data also contain papers that have their estimates in the main text without highlighting in easy-to-read sections of the paper. 
